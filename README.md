@@ -4,7 +4,7 @@ An amortization calculator that stores the amortization schedule in a pandas dat
 
 Current features:
 * allows one time payments
-* allows recurring additional payaments
+* allows recurring additional payments
 * has some basic plotting functionality
 
 Folder structure:
